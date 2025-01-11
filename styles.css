@@ -7,6 +7,7 @@ body,html{
     height:100%;
     width:100%;
     background-color: rgb(8, 6, 50);
+    background-image: linear-gradient(to right, rgb(15, 105, 28), rgb(17, 87, 105));
 }
 .silkscreen-regular {
     font-family: "Silkscreen", serif;

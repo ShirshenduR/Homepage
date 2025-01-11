@@ -20,11 +20,11 @@ html, body {
 .headi {
     width: 100%;
     text-align: center;
-    background-color: rgb(53, 53, 129);
+    background-color: rgb(15, 72, 60);
     padding: 20px;
-    box-shadow: 0 4px 8px rgba(39, 39, 149, 0.8);
+    box-shadow: 0 4px 8px rgba(14, 122, 45, 0.8);
     color: antiquewhite;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -62,19 +62,4 @@ audio {
     border-radius: 5px;
 }
 
-audio::-webkit-media-controls-panel {
-    background-color: rgba(255, 255, 255, 0.2);
-    border-radius: 5px;
-}
 
-audio::-webkit-media-controls-play-button,
-audio::-webkit-media-controls-timeline {
-    background-color: rgba(255, 255, 255, 0.4);
-    border-radius: 50%;
-    transition: background-color 0.3s ease;
-}
-
-audio:hover::-webkit-media-controls-play-button,
-audio:hover::-webkit-media-controls-timeline {
-    background-color: rgba(255, 255, 255, 0.8);
-}

@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(8, 6, 50);
+    background-color: rgb(7, 112, 77);
     color: #ffffff;
     line-height: 1.8;
     padding: 20px 0;
@@ -17,7 +17,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background-color: rgb(8, 6, 50);
+    background-color: rgb(9, 75, 63);
     border-radius: 15px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
 }
