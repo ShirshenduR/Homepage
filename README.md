@@ -1,13 +1,14 @@
-# CS50 Homepage Project
+# YOUR PROJECT TITLE
+#### Video Demo:  <URL HERE>
 
-## Overview
-This project is a personalized homepage created as part of the CS50 course. It showcases my interests, achievements, and personality through a dynamic and visually appealing design. The homepage is built using HTML, CSS, Bootstrap, and JavaScript, and includes a responsive layout, interactive features, and external library integrations.
+#### Description:
+This project is a personalized homepage created as part of the CS50 course. It showcases my interests, achievements, and personality through a visually appealing design. The homepage is built using HTML, CSS, Bootstrap, and JavaScript, and includes a responsive layout, interactive features, and external library integrations. It's my starter project, so it may not be the best.
 
 ## Features
-- **Navigation Bar**: A sticky navigation bar with links to key sections: Home, About Me, Music, and Contact.
+- **Navigation Bar**: Navigation bar with links to key sections: Home, About Me, Music, and Contact.
 - **Dynamic Typing Animation**: A greeting section with multilingual greetings implemented using the Typed.js library.
 - **Introduction**: A brief introduction to my background, interests, and aspirations styled with custom fonts.
-- **Profile Picture**: A circular profile picture for a personal touch.
+- **Profile Picture**: A circular profile picture.
 - **Footer**: A footer section with a friendly message and a subtle acknowledgment.
 
 ## Technologies Used
@@ -21,6 +22,9 @@ This project is a personalized homepage created as part of the CS50 course. It s
 - [Bootstrap 5](https://getbootstrap.com/)
 - [Typed.js](https://github.com/mattboldt/typed.js/)
 - [Google Fonts](https://fonts.google.com/): "Charm" and "Silkscreen" fonts.
+
+## File Structure
+
 
 ## File Structure
 ```
