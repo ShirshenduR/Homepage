@@ -1,5 +1,5 @@
-# YOUR PROJECT TITLE
-#### Video Demo:  <URL HERE>
+# Homepage
+#### Video Demo:  <>
 
 #### Description:
 This project is a personalized homepage created as part of the CS50 course. It showcases my interests, achievements, and personality through a visually appealing design. The homepage is built using HTML, CSS, Bootstrap, and JavaScript, and includes a responsive layout, interactive features, and external library integrations. It's my starter project, so it may not be the best.
